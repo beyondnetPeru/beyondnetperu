@@ -5,7 +5,7 @@ Hi there
 - 🌱 I’m currently learning all sorts of stuff! Mostly Docker, Kubernetes, nodejs, cloud, JS, TS, C#, .NET and Architecture Design.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: beyondnet.peru@gmail.com
-- 📫 I am researching constantly NESTJS, follow us: [HTTP://[www.nestjslatam.org](http://nestjslatam.org/)](http://nestjslatam.org/)
+- 📫 I am researching constantly NESTJS, follow us: [(http://nestjslatam.org/)](http://nestjslatam.org/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: musician and soccer player
 
