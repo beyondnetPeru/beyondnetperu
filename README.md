@@ -9,4 +9,6 @@ Hi there
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: musician and soccer player
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,angular,cs,dotnet,docker,ex,figma,git,github,graphql,html,hiberate,ai,js,css&perline=3)](https://skillicons.dev)
