@@ -9,6 +9,13 @@ Hi there
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: musician and soccer player
 
+## Active Member Of
+
+- [NESTJS Latam Community](https://github.com/nestjslatam)
+- [DDD Latam Community](https://github.com/dddLatam)
+- [C# SandBox Code](https://github.com/csdevlib)
+- [JS SanBox Code](https://github.com/jsdevlib)
+
 ## About Me
 
 Dynamic and motivated professional with a proven record of generating and building software, managing projects from concept to implementation, designing architectures, and coaching teams to technical improvement. Skilled in building cross-functional teams, demonstrating communication skills, and making critical decisions during challenges. I am an adaptable and transformational leader who can work independently, create effective presentations, and develop opportunities that further establish organizational goals.
