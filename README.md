@@ -16,5 +16,5 @@ Dynamic and motivated professional with a proven record of generating and buildi
 ## My Technical Interests
 
 - Software Architecture Development: SOLID principles, Microservices, Domain-Driven Design, AWS Cloud Programming, Azure Cloud Development Programming, Software Development Patterns and Paractices, Reactive Programming, OOP Programming and Functional Programming.
-- Programming Languages: C#, JavaScript (TypeScript) and Go.
+- Programming Languages: JavaScript, C# (TypeScript) and Go.
 - Business and Management: Agile, Supply Chain, WMS, TMS, YMS, CMMS, BMS, OMS, Foreign Trade, Retail, e-commerce and Direct Sales, Lead Management for Assurance and Learning Management.
