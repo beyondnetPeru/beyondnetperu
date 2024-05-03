@@ -12,7 +12,6 @@ Hi there
 ## Active Member Of
 
 - [NESTJS Latam Community](https://github.com/nestjslatam)
-- [DDD Latam Community](https://github.com/dddLatam)
 - [C# SandBox Code](https://github.com/csdevlib)
 - [JS SanBox Code](https://github.com/jsdevlib)
 
