@@ -11,17 +11,18 @@ Hi there
 
 ## Active Member Of
 
+- [DDD Latam](https://github.com/ddddevlib)
 - [NESTJS Latam Community](https://github.com/nestjslatam)
 - [C# SandBox Code](https://github.com/csdevlib)
 - [JS SanBox Code](https://github.com/jsdevlib)
 
 ## About Me
 
-Dynamic and motivated professional with a proven record of generating and building software, managing projects from concept to implementation, designing architectures, and coaching teams to technical improvement. Skilled in building cross-functional teams, demonstrating communication skills, and making critical decisions during challenges. I am an adaptable and transformational leader who can work independently, create effective presentations, and develop opportunities that further establish organizational goals.
+Dynamic and motivated professional with a proven record of generating and building software, managing projects from concept to implementation, designing architectures, and coaching teams to technical improvement. I have skilled in building cross-functional teams, demonstrating communication skills, and making critical decisions during challenges. I am an adaptable and transformational leader who can work independently, create effective presentations, and develop opportunities that further establish organizational goals.
 
 ## I like to Talk and Research About
 
-- Software Architecture Development: SOLID principles, Microservices, Domain-Driven Design, AWS Cloud Programming, Azure Cloud Development Programming, Software Development Patterns and Paractices, Reactive Programming, OOP Programming and Functional Programming.
+- Software Architecture Development: SOLID principles, Microservices, Domain-Driven Design, AWS Cloud Programming, Azure Cloud Development Programming, Software Development Patterns and practices, Reactive Programming, OOP Programming, and Functional Programming.
 - New Trends: AI and IoT
 - Programming Languages: JavaScript, C# (TypeScript) and Go.
-- Business and Management: Agile, Supply Chain, WMS, TMS, YMS, CMMS, BMS, OMS, Foreign Trade, Retail, e-commerce and Direct Sales, Lead Management for Assurance and Learning Management.
+- Business and Management: Agile, Supply Chain, WMS, TMS, YMS, CMMS, BMS, OMS, Foreign Trade, Retail, e-commerce, and Direct Sales, Lead Management for Assurance and Learning Management.
