@@ -58,24 +58,34 @@
 ### 🛠️ Core Expertise & Enterprise Stack
 
 <details>
-  <summary><b>📐 Architecture & Frameworks</b></summary>
+  <summary><b>💻 Backend & Core Languages</b></summary>
   <br/>
-  <blockquote>
-    SOLID | Domain-Driven Design (DDD) | Clean Architecture | CQRS | Event Sourcing | Hexagonal & Onion Architectures
-  </blockquote>
   <p>
-    <img src="https://img.shields.io/badge/.NET_Core%20/%20Web_API-222222?style=flat-square&logo=.net&logoColor=C0C0C0" alt=".NET"/>
+    <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=c-sharp&logoColor=C0C0C0" alt="C#"/>
+    <img src="https://img.shields.io/badge/.NET_8-222222?style=flat-square&logo=.net&logoColor=C0C0C0" alt=".NET"/>
     <img src="https://img.shields.io/badge/Node.js-222222?style=flat-square&logo=node.js&logoColor=C0C0C0" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/NestJS-222222?style=flat-square&logo=nestjs&logoColor=C0C0C0" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=C0C0C0" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Go-222222?style=flat-square&logo=go&logoColor=C0C0C0" alt="Go"/>
   </p>
 </details>
 
 <details>
-  <summary><b>🖼️ Frontend & Ecosystem</b></summary>
+  <summary><b>📐 Architecture & Frameworks</b></summary>
+  <br/>
+  <blockquote>
+    SOLID | Domain-Driven Design (DDD) | Clean Architecture | CQRS | Event Sourcing | Microservices
+  </blockquote>
+  <p>
+    <img src="https://img.shields.io/badge/NestJS-222222?style=flat-square&logo=nestjs&logoColor=C0C0C0" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/ASP.NET_Core-222222?style=flat-square&logo=dotnet&logoColor=C0C0C0" alt="ASP.NET Core"/>
+    <img src="https://img.shields.io/badge/Entity_Framework-222222?style=flat-square&logo=nuget&logoColor=C0C0C0" alt="EF Core"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🖼️ Frontend Ecosystem</b></summary>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=C0C0C0" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=C0C0C0" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=next.js&logoColor=C0C0C0" alt="Next.js"/>
     <img src="https://img.shields.io/badge/Angular-222222?style=flat-square&logo=angular&logoColor=C0C0C0" alt="Angular"/>
@@ -83,14 +93,17 @@
 </details>
 
 <details>
-  <summary><b>🐳 Infrastructure & Data</b></summary>
+  <summary><b>🐳 Infrastructure, Data & Messaging</b></summary>
   <br/>
   <p>
     <img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=C0C0C0" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-222222?style=flat-square&logo=kubernetes&logoColor=C0C0C0" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Azure-222222?style=flat-square&logo=microsoft-azure&logoColor=C0C0C0" alt="Azure"/>
     <img src="https://img.shields.io/badge/AWS-222222?style=flat-square&logo=amazon-aws&logoColor=C0C0C0" alt="AWS"/>
+    <img src="https://img.shields.io/badge/SQL_Server-222222?style=flat-square&logo=microsoft-sql-server&logoColor=C0C0C0" alt="SQL Server"/>
     <img src="https://img.shields.io/badge/MongoDB-222222?style=flat-square&logo=mongodb&logoColor=C0C0C0" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-222222?style=flat-square&logo=redis&logoColor=C0C0C0" alt="Redis"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-222222?style=flat-square&logo=rabbitmq&logoColor=C0C0C0" alt="RabbitMQ"/>
   </p>
 </details>
 
