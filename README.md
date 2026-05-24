@@ -1,7 +1,11 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&fontColor=D4AF37&text=Alberto%20Arroyo&fontSize=50&desc=Technical%20Manager%20%7C%20Software%20Architect%20%7C%20AI-Driven%20Developer%20Passioned&descSize=16&height=220&fontAlignY=40&descAlignY=65&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&fontColor=D4AF37&text=ALBERTO%20ARROYO%20RAYGADA&fontSize=50&desc=Technical%20Manager%20%7C%20Software%20Architect%20%7C%20AI-DD%20Engineer&descSize=16&height=220&fontAlignY=35&descAlignY=55&animation=fadeIn" alt="Header Banner" />
   
+  <p align="center">
+    <h3 style="color: #C0C0C0; margin-top: -15px;"><i>a.k.a BeyondNet</i></h3>
+  </p>
+
   <p align="center">
     <b>Bridging 20+ years of enterprise engineering excellence with the future of cognitive, AI-driven architectures.</b>
   </p>
@@ -122,7 +126,7 @@
 
 I am an active contributor and community driving force within the **NESTJS Latam Community**, **C# Sandbox Code**, and **JS Sandbox Code**.
 
-* 🌐 **[BeyondNetCode](https://github.com/beyondnetcode/)** — Architecting cross-platform enterprise microservices blueprints using modern .NET, Docker, Redis, and MongoDB with advanced Event-Driven and CQRS paradigms.
+* 🌐 **[BeyondNetCode](https://github.com/beyondnetcode/)** — Architecting cross-platform enterprise microservices blueprints using advanced Event-Driven and CQRS paradigms, focusing on scalable and resilient distributed systems.
 * 🏛️ **[CSDevLib](https://github.com/csdevlib)** — Designing and maintaining core infrastructure and foundational C# libraries that simplify Domain-Driven Design (DDD) and Clean Architecture implementation.
 * 🦁 **[NestJSLatam](https://github.com/nestjslatam)** — Author and maintainer of `@nestjslatam/ddd-lib`, an independent NPM package providing robust DDD building blocks, next-gen Hexagonal structures, and complex Custom Auth architectures for Node.js.
 
