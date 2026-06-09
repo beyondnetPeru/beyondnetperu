@@ -21,7 +21,7 @@
 ---
 
 <!-- EXECUTIVE PROFILE -->
-<details>
+<details open>
   <summary><b>Executive Profile</b></summary>
   <br/>
   <p>I am a <b>Bilingual Technical Manager</b> and <b>Senior Software Architect</b> with over two decades of experience designing, scaling, and orchestrating complex enterprise ecosystems across <b>.NET</b> and <b>Node.js/TypeScript</b> topologies.</p>
@@ -33,8 +33,24 @@
 
 ---
 
+<!-- OPEN SOURCE SECTION -->
+<details open>
+  <summary><b>Strategic Open Source Contributions</b></summary>
+  <br/>
+  <p>Active contributor and community driving force within the <b>NestJS Latam Community</b>, <b>C# Sandbox Code</b>, and <b>JS Sandbox Code</b>.</p>
+  <ul>
+    <li><b><a href="https://github.com/beyondnetcode/">BeyondNetCode</a></b> — Architecting cross-platform enterprise microservices blueprints using advanced Event-Driven and CQRS paradigms, focusing on scalable and resilient distributed systems.</li>
+    <li><b><a href="https://github.com/csdevlib">CSDevLib</a></b> — Designing and maintaining core infrastructure and foundational C# libraries that simplify Domain-Driven Design (DDD) and Clean Architecture implementation.</li>
+    <li><b><a href="https://github.com/nestjslatam">NestJSLatam</a></b> — Author and maintainer of <code>@nestjslatam/ddd-lib</code>, an independent NPM package providing robust DDD building blocks, next-gen Hexagonal structures, and complex Custom Auth architectures for Node.js.</li>
+  </ul>
+</details>
+
+<br/>
+
+---
+
 <!-- AI ECOSYSTEM SECTION -->
-<details>
+<details open>
   <summary><b>Advanced AI Ecosystem & Intelligent Systems</b></summary>
   <br/>
   <p>I actively design cognitive and adaptive software solutions by orchestrating a diverse, multi-model AI infrastructure to fit the exact operational and architectural context of each problem.</p>
@@ -64,11 +80,11 @@
 ---
 
 <!-- CORE EXPERTISE & TECH STACK -->
-<details>
+<details open>
   <summary><b>Core Expertise & Enterprise Stack</b></summary>
   <br/>
 
-  <details>
+  <details open>
     <summary><b>Backend & Core Languages</b></summary>
     <br/>
     <p>
@@ -80,7 +96,7 @@
     </p>
   </details>
 
-  <details>
+  <details open>
     <summary><b>Architecture & Frameworks</b></summary>
     <br/>
     <blockquote>
@@ -93,7 +109,7 @@
     </p>
   </details>
 
-  <details>
+  <details open>
     <summary><b>Frontend Ecosystem</b></summary>
     <br/>
     <p>
@@ -103,7 +119,7 @@
     </p>
   </details>
 
-  <details>
+  <details open>
     <summary><b>Infrastructure, Data & Messaging</b></summary>
     <br/>
     <p>
@@ -118,7 +134,7 @@
     </p>
   </details>
 
-  <details>
+  <details open>
     <summary><b>Business & Operations Domains</b></summary>
     <br/>
     <p>
@@ -132,24 +148,8 @@
 
 ---
 
-<!-- OPEN SOURCE SECTION -->
-<details>
-  <summary><b>Strategic Open Source Contributions</b></summary>
-  <br/>
-  <p>Active contributor and community driving force within the <b>NestJS Latam Community</b>, <b>C# Sandbox Code</b>, and <b>JS Sandbox Code</b>.</p>
-  <ul>
-    <li><b><a href="https://github.com/beyondnetcode/">BeyondNetCode</a></b> — Architecting cross-platform enterprise microservices blueprints using advanced Event-Driven and CQRS paradigms, focusing on scalable and resilient distributed systems.</li>
-    <li><b><a href="https://github.com/csdevlib">CSDevLib</a></b> — Designing and maintaining core infrastructure and foundational C# libraries that simplify Domain-Driven Design (DDD) and Clean Architecture implementation.</li>
-    <li><b><a href="https://github.com/nestjslatam">NestJSLatam</a></b> — Author and maintainer of <code>@nestjslatam/ddd-lib</code>, an independent NPM package providing robust DDD building blocks, next-gen Hexagonal structures, and complex Custom Auth architectures for Node.js.</li>
-  </ul>
-</details>
-
-<br/>
-
----
-
 <!-- METRICS SECTION -->
-<details>
+<details open>
   <summary><b>Engineering Metrics & Analytics Dashboard</b></summary>
   <br/>
   <div align="center">
